@@ -4,6 +4,8 @@
 
 Practicing Concepts from Microsoft Fundamental C# Documentation
 
+###### [Link to C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+
 ### Approach
 
 - [x] Understanding the use case
@@ -14,6 +16,21 @@ Practicing Concepts from Microsoft Fundamental C# Documentation
 
 #### Fundamentals
 
+- Type system
+- Object Oriented Programming
+- Functional Techniques
+- Exceptions
+- Coding Styles
+
 #### Key Concepts
 
+- Language Integrated Query (LINQ)
+- Asynchronous programming
+
 #### Advanced Concepts
+
+- Reflection and attributes
+- Expression trees
+- Native interoperability
+- Performance engineering
+- .NET Compiler Platform SDK

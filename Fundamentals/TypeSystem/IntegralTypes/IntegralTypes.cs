@@ -4,15 +4,17 @@
     {
         public static int[] ByteSize()
         {
-            int[] result = new int[8];
-            result[0] = sizeof(sbyte);
-            result[1] = sizeof(byte);
-            result[2] = sizeof(short);
-            result[3] = sizeof(ushort);
-            result[4] = sizeof(int);
-            result[5] = sizeof(uint);
-            result[6] = sizeof(long);
-            result[7] = sizeof(ulong);
+            int[] result =
+            [
+                sizeof(sbyte),
+                sizeof(byte),
+                sizeof(short),
+                sizeof(ushort),
+                sizeof(int),
+                sizeof(uint),
+                sizeof(long),
+                sizeof(ulong),
+            ];
             //Omitted nint and uint because it will vary on platform.
             //result[8] = sizeof(nint);
             //result[9] = sizeof(uint);

@@ -16,7 +16,7 @@ Practicing Concepts from Microsoft Fundamental C# Documentation
 
 #### Fundamentals
 
-- Type system
+- [Type system](https://github.com/chitangchin/CSharpFundamentals/tree/master/Fundamentals/TypeSystem)
 - Object Oriented Programming
 - Functional Techniques
 - Exceptions

@@ -8,12 +8,12 @@ Strongly typed language - restrictions imposed by a type system.
 
 Examples:
 
-✔️string helloWorld = “Hello world”;
-❌string helloWorld = 1;
+- ✔️string helloWorld = “Hello world”;
+- ❌string helloWorld = 1;
 
-Example 2 violates the type system restrictions because you assigned an integer to a variable declared as a string type.
+*Example 2 violates the type system restrictions because you assigned an integer to a variable declared as a string type.*
 
-## Primitive C# Types Part 1
+## Primitive C# Types
 
 ### Integral Types
 

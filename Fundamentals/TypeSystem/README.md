@@ -13,6 +13,24 @@ Examples:
 
 *Example 2 violates the type system restrictions because you assigned an integer to a variable declared as a string type.*
 
-## Primitive C# Types
+## Value Types
+
+- [Integral Numeric Types](https://github.com/chitangchin/CSharpFundamentals/tree/master/Fundamentals/TypeSystem/IntegralTypes)
+- Floating-point numeric types
+- Built-in numeric conversions
+- bool
+- char
+- Enumeration types
+- Struct types
+- Ref struct types
+- Tuple types
+- Nullable value types
+
+## Reference Types
+
+- void
+- Built-in types
+- Unmanaged types
+- Default values
 
 

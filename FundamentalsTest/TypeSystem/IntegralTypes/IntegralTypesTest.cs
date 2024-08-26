@@ -1,12 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace FundamentalsTest.TypeSystem.IntegralTypes
 {
-    internal class IntegralTypesTest
+    using Fundamentals.TypeSystem.IntegralTypes;
+    public class IntegralTypesTest
     {
+        private readonly int[] expected = [1, 1, 2, 2, 4, 4, 8, 8];
+        [Test]
+        public void Test()
+        {
+            Assert.That(IntegralTypes.ByteSize(), Is.EqualTo(expected));
+        }
     }
 }

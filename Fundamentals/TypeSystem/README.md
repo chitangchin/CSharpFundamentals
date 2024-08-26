@@ -19,6 +19,8 @@ Examples:
 
 ![image](https://github.com/user-attachments/assets/e0c48d74-ddc4-44db-9bf3-5cd99a06a12e)
 
+Source: Microsoft
+
 [Link to Characteristics of integral types](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)
 
 [Integral Types Quizlet](https://quizlet.com/935475329/characteristics-of-the-integral-types-flash-cards/?i=1bkfj1&x=1jqt)

@@ -14,7 +14,7 @@ Practicing Concepts from Microsoft Fundamental C# Documentation
 
 ### Quizlet Flashcards
 
-Practice and test yourself on your knowledge
+Practice and test yourself on each module
 
 ##### [Link to quizlet collection](https://quizlet.com/chitangchin/folders/c-fundamentals?i=1bkfj1&x=1xqt)
 

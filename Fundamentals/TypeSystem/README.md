@@ -16,7 +16,7 @@ Examples:
 ## Value Types
 
 - [Integral Numeric Types](https://github.com/chitangchin/CSharpFundamentals/tree/master/Fundamentals/TypeSystem/IntegralTypes)
-- Floating-point numeric types
+- [Floating-point numeric types](https://github.com/chitangchin/CSharpFundamentals/tree/master/Fundamentals/TypeSystem/FloatingTypes)
 - Built-in numeric conversions
 - bool
 - char

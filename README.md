@@ -12,6 +12,12 @@ Practicing Concepts from Microsoft Fundamental C# Documentation
 - [x] Building Unit Tests
 - [x] Creating unique examples
 
+### Quizlet Flashcards
+
+Practice and test yourself on your knowledge
+
+##### [Link to quizlet collection](https://quizlet.com/chitangchin/folders/c-fundamentals?i=1bkfj1&x=1xqt)
+
 ### Modules
 
 #### Fundamentals
